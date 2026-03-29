@@ -20,7 +20,7 @@ SignBridge is an accessibility tool designed to enable seamless, two-way communi
 *   **Voice Relay:** Instantly converts interpreted text into speech for hearing participants.
 
 ### 🎙️ Voice to Sign Avatar
-*   **Multilingual Support:** Supports English and Zulu voice capture.
+*   **Multilingual Support:** Supports English voice capture.
 *   **AI Avatar:** A 3D-style landmark avatar that "signs" back to the user based on spoken input.
 *   **Hybrid Library:** Combines a local library of standard signs with Gemini-generated sequences for rare words.
 
